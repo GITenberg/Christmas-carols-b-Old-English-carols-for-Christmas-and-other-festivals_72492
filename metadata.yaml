@@ -1,0 +1,47 @@
+_repo: Christmas-carols-b-Old-English-carols-for-Christmas-and-other-festivals_72492
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Broadwood, Lucy Etheldred
+    aliases:
+    - Broadwood, L. E. (Lucy Etheldred)
+    - Broadwood, Lucy E.
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '39110'
+    url: http://www.gutenberg.org/2009/agents/39110
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Broadwood
+  illustrator:
+    agent_name: Hartley, J. H.
+    gutenberg_agent_id: '56706'
+    url: http://www.gutenberg.org/2009/agents/56706
+creator:
+  editor:
+    agent_name: Walter, L. Edna (Lavinia Edna)
+    aliases:
+    - Walter, L. E. (Lavinia Edna)
+    - Walter, Lavinia Edna
+    gutenberg_agent_id: '56704'
+    url: http://www.gutenberg.org/2009/agents/56704
+description: ''
+gutenberg_issued: '2023-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72492'
+language: en
+pgterms:marc905: 20080219111655walter
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Robin Monks, Linda Cantoni, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bThe MacMillian Company, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carols'
+- !lcc 'M'
+- GITenberg
+title: 'Christmas carols : $b Old English carols for Christmas and other festivals'
+url: http://www.gutenberg.org/ebooks/72492
