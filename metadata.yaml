@@ -15,6 +15,9 @@ contributor:
     agent_name: Hartley, J. H.
     gutenberg_agent_id: '56706'
     url: http://www.gutenberg.org/2009/agents/56706
+covers:
+- cover_type: archival
+  image_path: 72492-h/images/cover.jpg
 creator:
   editor:
     agent_name: Walter, L. Edna (Lavinia Edna)
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '56704'
     url: http://www.gutenberg.org/2009/agents/56704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72492#Christmas-carols-b-Old-English-carols-for-Christmas-and-other-festivals
 gutenberg_issued: '2023-12-23'
 gutenberg_type: Text
 identifiers:
